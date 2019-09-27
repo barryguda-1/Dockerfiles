@@ -1,0 +1,5 @@
+gnore these files
+*/*.md
+*/.git
+src/docs/
+*/tests/
